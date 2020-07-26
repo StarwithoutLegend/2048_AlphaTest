@@ -325,7 +325,7 @@ while True:
 		screen.fill((189,173,158))
 		Refresh_screen()
 		pygame.display.update()
-
+# Just a easter egg XD
 
 
 
